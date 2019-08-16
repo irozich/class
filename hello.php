@@ -2,10 +2,10 @@
 
 #Author - Vijay Nagarajan PhD
 #print a string
-print "Hello World\n";
+print "Hello Isaiah\n";
 
 #variable
-$DNA = 'ACGGGAGGACGGGAAAATTACTACGGCATTAGC';
+$DNA = 'ACGGGAGGACGGGGGGGGGGGGGGGGGGGAAAATTACTACGGCATTAGC';
 print $DNA."\n";
 
 #string concatenation
@@ -23,6 +23,6 @@ $RNA = str_replace("T","U",$RNA);
 print "Here is the result of transcribing the DNA to RNA:\n\n";
 print "$RNA\n";
 
-?>
+?> #every PHP command has to end with ?> and every line has to end with ;
 
 
