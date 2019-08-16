@@ -2,7 +2,7 @@
 
 #Author - Vijay Nagarajan PhD
 #print a string - hello vijay
-print "Hello Raj\n";
+print "Hello Isaiah\n";
 
 
 
